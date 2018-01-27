@@ -2,4 +2,5 @@
     <string name="app_name">Magic Eight Ball</string>
     <string name="ballDesc">Image ball</string>
     <string name="btnText">Roll ball</string>
+    <string name="strText">Make a decision!</string>
 </resources>

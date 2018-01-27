@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final int[] options = {
+        final int[] options = new int[]{
                 R.drawable.maybe,
                 R.drawable.no,
                 R.drawable.probably,
